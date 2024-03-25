@@ -2,18 +2,18 @@
   "name": "goit-projekt-filmoteka",
   "version": "0.3.16-aprove",
   "description": "",
-  "homepage": "https://MMolik.github.io/goit-projekt-filmoteka/",
+  "homepage": "https://MMolik.github.io/Filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --no-scope-hoist --no-optimize --public-url /goit-projekt-filmoteka/",
+    "build": "parcel build src/*.html --no-scope-hoist --no-optimize --public-url /Filmoteka/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://MMolik.github.io/goit-projekt-filmoteka.git"
+    "url": "git+https://MMolik.github.io/Filmoteka.git"
   },
   "keywords": [],
-  "author": "GRUPA 1 <krzysztof-goit@fabrykait.net>",
+  "author": "GRUPA 1",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.12.0",
