@@ -2,7 +2,7 @@
   "name": "goit-projekt-filmoteka",
   "version": "0.3.16-aprove",
   "description": "",
-  "homepage": "https://MMolik.github.io/Filmoteka/",
+  "homepage": "https://mmolik.github.io/Filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --no-scope-hoist --no-optimize --public-url /Filmoteka/",
